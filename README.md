@@ -24,6 +24,7 @@
 
 
 ## Section 4 - Notes & Highlights
+- Although this was done with bootstrap, I want to redo using Material-UI. 
 
 
 ## Section 5 - Summary 
