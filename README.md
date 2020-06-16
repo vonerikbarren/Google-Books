@@ -1,7 +1,11 @@
 # Google-Books
 
 ## Section 0 - Technologies
-
+- MongoDB
+- Express
+- React
+- Node
+- Bootstrap
 
 ## Section 1 - Overview 
 
