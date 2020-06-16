@@ -13,6 +13,7 @@
 
 ## Section 2 - Purpose
 - The purpose of this application was to create a fluid UI using state and creating a fullstack app for deployment while practicing minimalistic design. 
+- To mimic saving items from a search ( preferably items at an online store ), and save them for later. 
 
 ## Section 3 - Directions
 1. The user goes to the application
