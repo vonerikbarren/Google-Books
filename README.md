@@ -28,3 +28,4 @@
 
 
 ## Section 5 - Summary 
+- This was fun to use the MERN stack and to deploy it successfully. 
