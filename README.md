@@ -1,9 +1,9 @@
 # Google-Books
 
-## Section 0 - Technologies Used
+## Section 0 - Technologies
 
 
-## Section 1 
+## Section 1 - Overview 
 
 
 ## Section 2 
