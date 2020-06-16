@@ -8,6 +8,7 @@
 - Bootstrap
 
 ## Section 1 - Overview 
+- This application is a full-stack application that exibits AJAX requests using a minimalist design using the bootstrap framework. 
 
 
 ## Section 2 - Purpose
