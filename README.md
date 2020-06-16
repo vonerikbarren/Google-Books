@@ -12,7 +12,7 @@
 
 
 ## Section 2 - Purpose
-
+- The purpose of this application was to create a fluid UI using state and creating a fullstack app for deployment while practicing minimalistic design. 
 
 ## Section 3 - Directions
 
