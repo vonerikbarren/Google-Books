@@ -18,7 +18,8 @@
 1. The user goes to the application
 2. The user searches for a book that they desire or want by clicking into book search. 
 3. Clicks Enter or Search 
-4. 
+4. The user then decides if they want to view the book, or save the book to their saved section. 
+5. Once the user has the books, they can view what they saved in the saved Tab. 
 
 
 ## Section 4 - Notes & Highlights
